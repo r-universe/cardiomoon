@@ -1,0 +1,50 @@
+[
+  {
+    "package": "autoReg",
+    "oncran": true
+  },
+  {
+    "package": "dplyrAssist",
+    "oncran": true
+  },
+  {
+    "package": "editData",
+    "oncran": true
+  },
+  {
+    "package": "ggiraphExtra",
+    "oncran": true
+  },
+  {
+    "package": "ggplotAssist",
+    "oncran": true
+  },
+  {
+    "package": "interpretCI",
+    "oncran": true
+  },
+  {
+    "package": "moonBook",
+    "oncran": true
+  },
+  {
+    "package": "mycor",
+    "oncran": true
+  },
+  {
+    "package": "predict3d",
+    "oncran": true
+  },
+  {
+    "package": "processR",
+    "oncran": true
+  },
+  {
+    "package": "webr",
+    "oncran": true
+  },
+  {
+    "package": "ztable",
+    "oncran": true
+  }
+]
