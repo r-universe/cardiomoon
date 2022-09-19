@@ -8,11 +8,6 @@
 	url = https://github.com/cardiomoon/autoreg
 	shallow = true
 	registered = true
-[submodule "dplyrAssist"]
-	path = dplyrAssist
-	url = https://github.com/cardiomoon/dplyrassist
-	shallow = true
-	registered = true
 [submodule "editData"]
 	path = editData
 	url = https://github.com/cardiomoon/editdata

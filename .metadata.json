@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "dplyrAssist",
-    "oncran": true
-  },
-  {
     "package": "editData",
     "oncran": true
   },
