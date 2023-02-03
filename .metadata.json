@@ -32,14 +32,6 @@
     "oncran": true
   },
   {
-    "package": "predict3d",
-    "oncran": true
-  },
-  {
-    "package": "processR",
-    "oncran": true
-  },
-  {
     "package": "webr",
     "oncran": true
   },
