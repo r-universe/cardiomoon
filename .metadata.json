@@ -38,5 +38,11 @@
   {
     "package": "ztable",
     "oncran": true
+  },
+  {
+    "package": "predict3d"
+  },
+  {
+    "package": "processR"
   }
 ]
