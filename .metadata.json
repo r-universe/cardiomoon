@@ -1,28 +1,10 @@
 [
   {
-    "package": "predict3d"
-  },
-  {
-    "package": "ggiraphExtra",
+    "package": "autoReg",
     "oncran": true
-  },
-  {
-    "package": "ztable",
-    "oncran": true
-  },
-  {
-    "package": "processR"
   },
   {
     "package": "dplyrAssist",
-    "oncran": true
-  },
-  {
-    "package": "moonBook",
-    "oncran": true
-  },
-  {
-    "package": "ggplotAssist",
     "oncran": true
   },
   {
@@ -30,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "webr",
+    "package": "ggiraphExtra",
+    "oncran": true
+  },
+  {
+    "package": "ggplotAssist",
     "oncran": true
   },
   {
@@ -38,11 +24,25 @@
     "oncran": true
   },
   {
-    "package": "autoReg",
+    "package": "moonBook",
     "oncran": true
   },
   {
     "package": "mycor",
+    "oncran": true
+  },
+  {
+    "package": "predict3d"
+  },
+  {
+    "package": "processR"
+  },
+  {
+    "package": "webr",
+    "oncran": true
+  },
+  {
+    "package": "ztable",
     "oncran": true
   }
 ]
