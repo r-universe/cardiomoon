@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "autoReg"]
-	path = autoReg
-	url = https://github.com/cardiomoon/autoreg
-	shallow = true
-	registered = true
-[submodule "dplyrAssist"]
-	path = dplyrAssist
-	url = https://github.com/cardiomoon/dplyrassist
-	shallow = true
-	registered = true
-[submodule "editData"]
-	path = editData
-	url = https://github.com/cardiomoon/editdata
+[submodule "predict3d"]
+	path = predict3d
+	url = https://github.com/cardiomoon/predict3d
 	shallow = true
 	registered = true
 [submodule "ggiraphExtra"]
@@ -23,14 +13,19 @@
 	url = https://github.com/cardiomoon/ggiraphextra
 	shallow = true
 	registered = true
-[submodule "ggplotAssist"]
-	path = ggplotAssist
-	url = https://github.com/cardiomoon/ggplotassist
+[submodule "ztable"]
+	path = ztable
+	url = https://github.com/cardiomoon/ztable
 	shallow = true
 	registered = true
-[submodule "interpretCI"]
-	path = interpretCI
-	url = https://github.com/cardiomoon/interpretci
+[submodule "processR"]
+	path = processR
+	url = https://github.com/cardiomoon/processr
+	shallow = true
+	registered = true
+[submodule "dplyrAssist"]
+	path = dplyrAssist
+	url = https://github.com/cardiomoon/dplyrassist
 	shallow = true
 	registered = true
 [submodule "moonBook"]
@@ -38,9 +33,14 @@
 	url = https://github.com/cardiomoon/moonbook
 	shallow = true
 	registered = true
-[submodule "mycor"]
-	path = mycor
-	url = https://github.com/cardiomoon/mycor
+[submodule "ggplotAssist"]
+	path = ggplotAssist
+	url = https://github.com/cardiomoon/ggplotassist
+	shallow = true
+	registered = true
+[submodule "editData"]
+	path = editData
+	url = https://github.com/cardiomoon/editdata
 	shallow = true
 	registered = true
 [submodule "webr"]
@@ -48,18 +48,18 @@
 	url = https://github.com/cardiomoon/webr
 	shallow = true
 	registered = true
-[submodule "ztable"]
-	path = ztable
-	url = https://github.com/cardiomoon/ztable
+[submodule "interpretCI"]
+	path = interpretCI
+	url = https://github.com/cardiomoon/interpretci
 	shallow = true
 	registered = true
-[submodule "predict3d"]
-	path = predict3d
-	url = https://github.com/cardiomoon/predict3d
+[submodule "autoReg"]
+	path = autoReg
+	url = https://github.com/cardiomoon/autoreg
 	shallow = true
 	registered = true
-[submodule "processR"]
-	path = processR
-	url = https://github.com/cardiomoon/processr
+[submodule "mycor"]
+	path = mycor
+	url = https://github.com/cardiomoon/mycor
 	shallow = true
 	registered = true
