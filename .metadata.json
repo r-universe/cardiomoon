@@ -38,6 +38,10 @@
     "package": "processR"
   },
   {
+    "package": "rrtable",
+    "oncran": true
+  },
+  {
     "package": "webr",
     "oncran": true
   },

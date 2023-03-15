@@ -53,6 +53,11 @@
 	url = https://github.com/cardiomoon/processr
 	shallow = true
 	registered = true
+[submodule "rrtable"]
+	path = rrtable
+	url = https://github.com/cardiomoon/rrtable
+	shallow = true
+	registered = true
 [submodule "webr"]
 	path = webr
 	url = https://github.com/cardiomoon/webr
