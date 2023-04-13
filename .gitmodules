@@ -43,6 +43,11 @@
 	url = https://github.com/cardiomoon/mycor
 	shallow = true
 	registered = true
+[submodule "predict3d"]
+	path = predict3d
+	url = https://github.com/cardiomoon/predict3d
+	shallow = true
+	registered = true
 [submodule "rrtable"]
 	path = rrtable
 	url = https://github.com/cardiomoon/rrtable
